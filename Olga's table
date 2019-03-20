@@ -1,0 +1,2 @@
+For Olga's table please go to:
+wget 'https://www.uniprot.org/uniprot/?query=Staphylococcus%20aureus&columns=id%2Centry%20name%2Cprotein%20names%2Cgenes%2Corganism%2Corganism-id%2Cdatabase(Ensembl)%2Cdatabase(EnsemblBacteria)%2Cdatabase(GeneID)%2Cgo(biological%20process)%2Cgo(cellular%20component)%2Ccomment(DEVELOPMENTAL%20STAGE)%2Ccomment(INDUCTION)%2Cdatabase(ExpressionAtlas)%2Cdatabase(Genevisible)&sort=score'
